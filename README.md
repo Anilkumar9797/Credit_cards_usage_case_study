@@ -83,7 +83,7 @@ Credit_cards_usage_case_study/
 │   └── dashboard_link.txt  
 ├── Script/ → Uploaded R script for data cleaning and feature engineering  
 │   └── analysis.R  
-├── README.md → Project overview, insights, and strategy recommendations  
-└── LICENSE → MIT license for open-source sharing  
+├── LICENSE → MIT license for open-source sharing    
+└── README.md → Project overview, insights, and strategy recommendations
 
 
