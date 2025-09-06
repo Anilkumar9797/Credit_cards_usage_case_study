@@ -88,8 +88,8 @@ Credit_cards_usage_case_study/
 
 ## 📬 Connect With Me
 
-- 🔗 [LinkedIn](www.linkedin.com/in/anil-kumar-bakkashetti-7a4139266) → Professional profile and career updates  
-- 📝 [Medium](medium.com/@Anilkumarbakkashetti) → Case studies, analytics write-ups, and project breakdowns  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/anil-kumar-bakkashetti-7a4139266) → Professional profile and career updates  
+- 📝 [Medium](https://medium.com/@Anilkumarbakkashetti) → Case studies, analytics write-ups, and project breakdowns  
 - 📊 [Tableau Public](https://public.tableau.com/app/profile/anil.kumar.bakkashetti) → Interactive dashboards and visual storytelling  
 
 
