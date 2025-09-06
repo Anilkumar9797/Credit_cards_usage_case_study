@@ -75,14 +75,16 @@ This case study analyzes customer credit card behavior, interest cost structures
 ---
 
 ## 📂 Project Structure
+## 📂 Project Structure (with descriptions)
 
 Credit_cards_usage_case_study/
-├── Cleaned_data/
-│   └── Synthetic_credit_data.csv
-├── Dashboard/
-│   └── dashboard_link.txt
-├── Script/
-│   └── analysis.R
-├── README.md
-└── LICENSE
+├── Cleaned_data/ → Contains the cleaned CSV file used for Tableau dashboarding and analysis  
+│   └── Synthetic_credit_data.csv  
+├── Dashboard/ → Uploaded dashboard link from Tableau Public  
+│   └── dashboard_link.txt  
+├── Script/ → Uploaded R script for data cleaning and feature engineering  
+│   └── analysis.R  
+├── README.md → Project overview, insights, and strategy recommendations  
+└── LICENSE → MIT license for open-source sharing  
+
 
