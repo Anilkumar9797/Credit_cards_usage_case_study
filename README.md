@@ -74,7 +74,6 @@ This case study analyzes customer credit card behavior, interest cost structures
 
 ---
 
-## 📂 Project Structure
 ## 📂 Project Structure (with descriptions)
 
 Credit_cards_usage_case_study/
