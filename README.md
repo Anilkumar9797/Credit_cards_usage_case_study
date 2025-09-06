@@ -75,13 +75,14 @@ This case study analyzes customer credit card behavior, interest cost structures
 ---
 
 ## 📂 Project Structure
+
 Credit_cards_usage_case_study/
 ├── Cleaned_data/
 │   └── Synthetic_credit_data.csv
 ├── Dashboard/
 │   └── dashboard_link.txt
-├── Script
-│   ├── analysis.R
+├── Script/
+│   └── analysis.R
 ├── README.md
 └── LICENSE
 
