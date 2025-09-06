@@ -86,7 +86,6 @@ Credit_cards_usage_case_study/
 ├── LICENSE → MIT license for open-source sharing    
 └── README.md → Project overview, insights, and strategy recommendations
 
-## Recommended Section
 ## 📬 Connect With Me
 
 - 🔗 [LinkedIn](www.linkedin.com/in/anil-kumar-bakkashetti-7a4139266) → Professional profile and career updates  
